@@ -1,0 +1,16 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Sora', sans-serif;
+    background-image: url("/img/imagen1.jpg");
+}
+main{
+    flex-grow: 1;
+}
+
+.btn:hover{
+    border-color: cornsilk;
+    border-style: dashed;
+}
